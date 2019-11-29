@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "One"
+date:   2019-11-28 12:16:16 -0500
+categories:
+---
+One small step for Oda, two large steps backward for mankind. 
